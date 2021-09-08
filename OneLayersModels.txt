@@ -1,0 +1,176 @@
+#############################################
+Hidden Size One: 5
+Hidden Size Two: 2
+Mean error: 0.0198810493
+Standard Deviation: 0.1297279108
+#############################################
+Hidden Size One: 5
+Hidden Size Two: 3
+Mean error: 0.0155551919
+Standard Deviation: 0.1038718154
+#############################################
+Hidden Size One: 5
+Hidden Size Two: 4
+Mean error: 0.0134813527
+Standard Deviation: 0.0895370896
+#############################################
+#############################################
+Hidden Size One: 6
+Hidden Size Two: 2
+Mean error: 0.0123524095
+Standard Deviation: 0.0810073990
+#############################################
+Hidden Size One: 6
+Hidden Size Two: 3
+Mean error: 0.0119941936
+Standard Deviation: 0.0790477116
+#############################################
+Hidden Size One: 6
+Hidden Size Two: 4
+Mean error: 0.0116386368
+Standard Deviation: 0.0758179859
+#############################################
+#############################################
+Hidden Size One: 7
+Hidden Size Two: 2
+Mean error: 0.0130883874
+Standard Deviation: 0.0990261919
+#############################################
+Hidden Size One: 7
+Hidden Size Two: 3
+Mean error: 0.0126569093
+Standard Deviation: 0.0938273589
+#############################################
+Hidden Size One: 7
+Hidden Size Two: 4
+Mean error: 0.0123238189
+Standard Deviation: 0.0897724124
+#############################################
+#############################################
+Hidden Size One: 8
+Hidden Size Two: 2
+Mean error: 0.0124795528
+Standard Deviation: 0.0870838985
+#############################################
+Hidden Size One: 8
+Hidden Size Two: 3
+Mean error: 0.0124175814
+Standard Deviation: 0.0842561340
+#############################################
+Hidden Size One: 8
+Hidden Size Two: 4
+Mean error: 0.0121929750
+Standard Deviation: 0.0824122425
+#############################################
+#############################################
+Hidden Size One: 9
+Hidden Size Two: 2
+Mean error: 0.0120249076
+Standard Deviation: 0.0799599865
+#############################################
+Hidden Size One: 9
+Hidden Size Two: 3
+Mean error: 0.0118221962
+Standard Deviation: 0.0781106693
+#############################################
+Hidden Size One: 9
+Hidden Size Two: 4
+Mean error: 0.0116252093
+Standard Deviation: 0.0762426717
+#############################################
+#############################################
+Hidden Size One: 10
+Hidden Size Two: 2
+Mean error: 0.0118631080
+Standard Deviation: 0.0776505301
+#############################################
+Hidden Size One: 10
+Hidden Size Two: 3
+Mean error: 0.0117344952
+Standard Deviation: 0.0759935203
+#############################################
+Hidden Size One: 10
+Hidden Size Two: 4
+Mean error: 0.0115646987
+Standard Deviation: 0.0745260807
+#############################################
+#############################################
+Hidden Size One: 11
+Hidden Size Two: 2
+Mean error: 0.0117247458
+Standard Deviation: 0.0750071747
+#############################################
+Hidden Size One: 11
+Hidden Size Two: 3
+Mean error: 0.0115818760
+Standard Deviation: 0.0736400365
+#############################################
+Hidden Size One: 11
+Hidden Size Two: 4
+Mean error: 0.0114446221
+Standard Deviation: 0.0724680122
+#############################################
+#############################################
+Hidden Size One: 12
+Hidden Size Two: 2
+Mean error: 0.0113801960
+Standard Deviation: 0.0715603177
+#############################################
+Hidden Size One: 12
+Hidden Size Two: 3
+Mean error: 0.0113110815
+Standard Deviation: 0.0708368792
+#############################################
+Hidden Size One: 12
+Hidden Size Two: 4
+Mean error: 0.0112342347
+Standard Deviation: 0.0701199147
+#############################################
+#############################################
+Hidden Size One: 13
+Hidden Size Two: 2
+Mean error: 0.0112088832
+Standard Deviation: 0.0693238262
+#############################################
+Hidden Size One: 13
+Hidden Size Two: 3
+Mean error: 0.0111311714
+Standard Deviation: 0.0687231867
+#############################################
+Hidden Size One: 13
+Hidden Size Two: 4
+Mean error: 0.0110917972
+Standard Deviation: 0.0680241993
+#############################################
+#############################################
+Hidden Size One: 14
+Hidden Size Two: 2
+Mean error: 0.0115642017
+Standard Deviation: 0.0756661965
+#############################################
+Hidden Size One: 14
+Hidden Size Two: 3
+Mean error: 0.0114983002
+Standard Deviation: 0.0747920284
+#############################################
+Hidden Size One: 14
+Hidden Size Two: 4
+Mean error: 0.0114081321
+Standard Deviation: 0.0739886971
+#############################################
+#############################################
+Hidden Size One: 15
+Hidden Size Two: 2
+Mean error: 0.0114415469
+Standard Deviation: 0.0736398459
+#############################################
+Hidden Size One: 15
+Hidden Size Two: 3
+Mean error: 0.0114479782
+Standard Deviation: 0.0734500615
+#############################################
+Hidden Size One: 15
+Hidden Size Two: 4
+Mean error: 0.0113678397
+Standard Deviation: 0.0726665022
+#############################################
