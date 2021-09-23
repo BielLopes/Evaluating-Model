@@ -100,11 +100,10 @@ class NeuralNet(nn.Module):
 
 # Tudo indica que aqui começa o loop de avaliação
 initial_folder_numbers=[0,1]
-error_loss = np.array([])
-total_test_size = 0
 
 for plus_first_hidden_size in range(11):
     for plus_second_hidden_size in range(3):
+        error_loss = np.array([])
         for k in range(9):
             loop_folder_numbers = [x+k for x in initial_folder_numbers]
             # print(f"New folder validating: {loop_folder_numbers}")
@@ -158,13 +157,11 @@ for plus_first_hidden_size in range(11):
                     output = model(cur_data)
                     loss = criterion(output, labels)
                     error_loss = np.append(error_loss, loss)
-                
-                total_test_size += len(test_data)
 
         print("#############################################") 
         print(f"Hidden Size One: {hidden_size_one}")
         print(f"Hidden Size Two: {hidden_size_two}")
-        print(f'Mean error: {np.sum(error_loss)/total_test_size:.10f}')
+        print(f'Mean error: {np.sum(error_loss)/len(error_loss):.10f}')
         print(f'Standard Deviation: {np.std(error_loss):.10f}')
 
     print("#############################################") 
